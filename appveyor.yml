@@ -12,7 +12,7 @@ install:
   - npm install
 
   # Post-install test scripts
-  tes-script:
+  test-script:
     # Output useful info for debugging
     - node --version
     - npm --version
